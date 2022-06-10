@@ -165,7 +165,7 @@ imprimir a lista com a função FImprime(), como pedido no Problema 3 - b.
       return 0;
     }
   
-<p align="justify"> Veja um exemplo das opçãoes: </p>
+<p align="justify"> Veja um exemplo das opções: </p>
 
 <p align="center">
   <img src="imgs/ExemploEntrada.png" width="400px">
