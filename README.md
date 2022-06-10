@@ -170,6 +170,8 @@ imprimir a lista com a função FImprime(), como pedido no Problema 3 - b.
 <p align="center">
   <img src="imgs/ExemploEntrada.png" width="400px">
 </p>
+
+
 # Compilação e Execução
 
 O algoritmo disponibilizado possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes 
