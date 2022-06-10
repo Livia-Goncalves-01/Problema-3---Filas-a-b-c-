@@ -36,6 +36,7 @@ int main()
 				break;
 			case 5: 
 				OrdenaBubble(&f);
+				OrdenaBubble(&l);
 				break;
 
 			default: printf("Valor inválido,");
