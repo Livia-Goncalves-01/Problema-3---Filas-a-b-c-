@@ -8,7 +8,7 @@ int main()
 
 	FFVazia(&f);
 	FFVazia(&l);
-	printf("Escolha uma opção:\n1-Cria listas e enfileira valores randômicos.\n2-Desenfileira um valor nas Filas.\n3-Imprime Lista\n4- Troca metada das listas.\n5-Ordena através do cálculo.\n0-Sair do programa.");
+	printf("Escolha uma opção:\n1-Cria listas e enfileira valores randômicos.\n2-Desenfileira um valor nas Filas.\n3-Imprime Lista\n4-Troca metadade das listas.\n5-Ordena através do cálculo.\n0-Sair do programa.");
 	scanf("%d", &menu);
 	printf("\nDigite o tamanho das listas: ");
 	scanf("%d", &n);
@@ -40,7 +40,7 @@ int main()
 
 			default: printf("Valor inválido,");
 		}
-		printf("Escolha uma opção:\n1-Cria listas e enfileira valores randômicos.\n2-Desenfileira um valor nas Filas.\n3-Imprime Listas\n4- Troca metada das listas.\n5-Ordena através do cálculo.\n0-Sair do programa.");
+		printf("Escolha uma opção:\n1-Cria listas e enfileira valores randômicos.\n2-Desenfileira um valor nas Filas.\n3-Imprime Listas\n4-Troca metadade das listas.\n5-Ordena através do cálculo.\n0-Sair do programa.");
 		scanf("%d", &menu);
 	}
 	
